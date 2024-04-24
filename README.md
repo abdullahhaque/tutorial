@@ -1,4 +1,4 @@
 # tutorial
 First time real experience.
 <br>
-Author- Abdullah Haque
+Author- Abdullah Haque (HSTU)
